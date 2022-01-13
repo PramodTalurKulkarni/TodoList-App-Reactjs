@@ -1,0 +1,11 @@
+todo-item.component.html
+
+<button class="btn btn-outline-success" (click)="onClick()">DELETE</button>
+
+todo-item.component.ts
+
+onClick(){
+  console.log("onClick has been triggered")
+
+---------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,14 @@
+4:49 : installing node js
+10:23 : npx command
+13:50 : 1st app created 
+16:30 : creating spa
+19:23 : react DOM
+21:44:JSX
+37:45 : Todos ( saare. Todos )
+39:00 : Todoitem ( one particular todo)
+40:00: Footer start 
+45:59 : "My Todo List" header title
+54:00 searchbar play
+1:11:28 : todo delete
+1:31:18 : not reload on submit
+1:36:45 : description not present
